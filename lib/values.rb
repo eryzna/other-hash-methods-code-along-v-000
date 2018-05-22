@@ -10,6 +10,5 @@ require 'pry'
 
 def get_the_values(groceries)
   groceries.values {|values| values.join}
-  values
   binding.pry
 end
