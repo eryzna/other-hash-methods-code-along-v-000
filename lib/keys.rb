@@ -10,6 +10,5 @@ require 'pry'
 
 def get_the_keys(groceries)
   groceries.keys
-  binding.pry
   #code your solution here!
 end
